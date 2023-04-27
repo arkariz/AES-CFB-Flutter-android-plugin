@@ -1,6 +1,6 @@
-# deasy_aes_encryptor
+# Flutter Android Plugin for AES CFB Encryption
 
-Deasy Aes Encryptor
+AES CFB Encryption
 
 ## Getting Started
 
